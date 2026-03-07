@@ -35,6 +35,7 @@ NixOS flake-based configuration for `src-system` using NixOS 25.11 and Home Mana
 - Username: `src-06`
 - Hostname: `src-system`
 - State version: `25.11`
+- System Arch: `x86_64-linux`
 
 ### Build
 
